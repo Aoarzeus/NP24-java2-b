@@ -1,0 +1,10 @@
+package br.com.senaisp.bauru.alex.secao05;
+
+public class ExemplosOptionPane {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
