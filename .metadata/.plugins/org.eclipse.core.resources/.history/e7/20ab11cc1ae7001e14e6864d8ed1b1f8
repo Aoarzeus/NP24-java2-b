@@ -1,0 +1,24 @@
+package br.com.senaisp.bauru.alex.licaoo4.secao01;
+
+public class FestaDoAlex {
+
+	public static void main(String[] args) {
+		double pessoa1= 10;
+		double pessoa2 = 12;
+		double pessoa3 = 9;
+		double pessoa4 = 8;
+		double pessoa5 = 7;
+		double pessoa6 = 15;
+		double pessoa7 = 11;
+		double pessoa8 = 30;
+		//constantes 
+		final double IMPOSTO = 0.5;
+		final double GORJETA = 0.15;
+		// vamos as contas 
+		double total1 = pessoa1 * ( 1+0.05 ) * (1+0.5);
+		double total2 = pessoa2 * ( 1+0.05 ) * (1+0.5);
+		double total3 = pessoa3 * ( 1+0.05 ) * (1+0.5);
+		double total4 = pessoa4 * ( 1+0.05 ) * (1+0.5);
+	}
+
+}
