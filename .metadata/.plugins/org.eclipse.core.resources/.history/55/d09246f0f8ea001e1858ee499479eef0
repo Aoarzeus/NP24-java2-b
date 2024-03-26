@@ -1,0 +1,10 @@
+package br.com.senaisp.bauru.alex.licaoo5.secao01;
+
+public class Emplo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

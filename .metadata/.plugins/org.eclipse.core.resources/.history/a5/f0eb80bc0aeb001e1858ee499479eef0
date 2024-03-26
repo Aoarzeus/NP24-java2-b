@@ -1,0 +1,26 @@
+package br.com.senaisp.bauru.alex.licaoo5.secao01;
+
+import java.util.Scanner;
+
+public class ExemploSwit {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("DIgite um valor de 1 a 10:");
+		int vlr = sc.nextInt();
+		switch(vlr) {
+		case 1: System.out.println(" você ganhou um boné!");
+		case 2: System.out.println(" você ganhou um caneta!");
+		case 3: System.out.println(" você ganhou um lápis!");
+		case 4: System.out.println(" você ganhou um calculadora!");
+		case 5: System.out.println(" você ganhou um boracha!");
+		case 6: System.out.println(" você ganhou um régua!");
+		case 7: System.out.println(" você ganhou um transferidor!");
+		case 8: System.out.println(" você ganhou um compasso!");
+		case 9: System.out.println(" você ganhou um celular!");
+		case 10: System.out.println(" você ganhou um R$1.000,00!");
+		default ; System.out.println("Que pena, não foi dessa vez");
+		}
+	}
+
+}

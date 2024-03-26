@@ -1,0 +1,11 @@
+package br.com.senaisp.bauru.alex.licaoo5.secao01;
+
+public class Emplo1 {
+
+	public static void main(String[] args) {
+			int idade = 15;
+			boolean bpodeDirigir = idade >=18;
+			System.out.println("Você " + bpodeDirigir + " Dirigir");
+	}
+
+}
