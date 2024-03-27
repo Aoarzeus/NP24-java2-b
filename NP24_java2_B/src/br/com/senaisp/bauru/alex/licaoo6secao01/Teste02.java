@@ -1,0 +1,28 @@
+package br.com.senaisp.bauru.alex.licaoo6secao01;
+
+import java.util.Scanner;
+
+public class Teste02 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int senha;
+		int tentativa = 0;
+		final int PASSWORD = 1597;
+		do {
+			System.out.println("Favor digitar a senha:");
+			senha = sc.nextInt();
+			if (senha!= PASSWORD) {
+				System.out.println("senha invalida! redigite.");
+				tentativa++;
+			}
+		} while (senha != PASSWORD && tentativa<3);
+		if (tentativa<3) {
+			System.out.println("Acesso permitido!");
+		}else {
+			System.out.println("Acesso bloqueado!");
+		}
+		sc.close();
+	}
+
+}

@@ -5,6 +5,10 @@
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo6secao01.Poligonos"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.awt.Shape"/>
+    <fullyQualifiedTypeName name="java.awt.font.ShapeGraphicAttribute"/>
+    <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo6secao01.shape"/>
 </qualifiedTypeNameHistroy>
