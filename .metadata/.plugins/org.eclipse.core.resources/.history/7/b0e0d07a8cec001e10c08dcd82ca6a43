@@ -1,0 +1,8 @@
+package br.com.senaisp.bauru.alex.licaoo7secaoexemplos;
+
+public class ContaBancaria {
+	private int agencia;
+	private int banco;
+	private int numeroConta;
+	private double saldo;
+}
