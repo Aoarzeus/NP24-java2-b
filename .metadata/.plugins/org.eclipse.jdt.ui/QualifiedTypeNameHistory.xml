@@ -11,7 +11,13 @@
     <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo6secao01.shape"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo7secaoexemplos.ContaBancaria"/>
-    <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo7secaoexercico.Cartao"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo7secaoexemplos.CategotiaPremio"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.sql.ClientInfoStatus"/>
+    <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo7secaoexemplos.CategoriaPremio"/>
+    <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo7secaoexemplos.Terminal"/>
+    <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo7secaoexercico.Cartao"/>
+    <fullyQualifiedTypeName name="br.com.senaisp.bauru.alex.licaoo7secaoexercico.MaquinaFliperama"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

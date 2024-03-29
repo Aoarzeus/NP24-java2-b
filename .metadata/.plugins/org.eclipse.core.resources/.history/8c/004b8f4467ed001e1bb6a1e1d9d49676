@@ -1,0 +1,9 @@
+package br.com.senaisp.bauru.alex.licaoo8secaoexercico;
+
+public class Exerciciocarta {
+	private String[] naipes = {"♠","♣","♥","♦"};
+	private int naipe;
+	private int valor;
+	private String numero;
+	
+}

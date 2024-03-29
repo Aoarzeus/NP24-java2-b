@@ -1,0 +1,8 @@
+package br.com.senaisp.bauru.alex.licaoo7secaoexemplos;
+
+public class Terminal {
+	private static int nId = 0;
+	private Categoriaspremios categoria1;
+	private Categoriaspremios categoria2;
+	private Categoriaspremios categoria3;
+}
