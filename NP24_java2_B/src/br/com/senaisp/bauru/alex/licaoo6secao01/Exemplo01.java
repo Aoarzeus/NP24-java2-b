@@ -19,5 +19,4 @@ public class Exemplo01 {
 		}for (;;) {
 		System.out.println("for infinito");
 		}
-
-
+	}
